@@ -1,6 +1,6 @@
 # nrinfragent Ansible role
 
-[![Build Status](https://travis-ci.org/newrelic/infrastructure-agent-ansible.svg?branch=master)](https://travis-ci.org/newrelic/infrastructure-agent-ansible)
+[![Build Status](https://travis-ci.org/buluma/infrastructure-agent-ansible.svg?branch=master)](https://travis-ci.org/buluma/infrastructure-agent-ansible)
 
 ## Description
 
