@@ -11,5 +11,5 @@ runs:
   steps:
     - name: Release
       id: release
-      run: ansible-galaxy role import --api-key ${{ inputs.galaxy_api_key }} newrelic infrastructure-agent-ansible
+      run: ansible-galaxy role import --api-key ${{ inputs.galaxy_api_key }} buluma infrastructure-agent-ansible
       shell: bash
