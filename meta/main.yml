@@ -1,30 +1,37 @@
 ---
 galaxy_info:
-  author: New Relic
+  author: Michael Buluma
   description: Role to install New Relic Infrastructure agent
-  company: New Relic, Inc.
-  license: All components of this product are Copyright (c) 2016 New Relic, Inc.  All rights reserved.
-  min_ansible_version: 2.1
+  company: None.
+  license: Apache-2.0
+  min_ansible_version: 2.5
   platforms:
-  - name: EL
-    versions:
-      - 6
-      - 7
-  - name: Amazon
-    versions:
-      - all
-  - name: Debian
-    versions:
-      - wheezy
-      - jessie
-      - stretch
-      - buster
-  - name: Ubuntu
-    versions:
-      - precise
-      - trusty
-      - xenial
-  categories:
-    - cloud:ec2
+    - name: EL
+      versions:
+        - 5
+        - 6
+        - 7
+    - name: Amazon
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - wheezy
+        - jessie
+        - stretch
+        - buster
+    - name: Ubuntu
+      versions:
+        - precise
+        - trusty
+        - xenial
+        - bionic
+        - focal
+    - name: Windows
+      versions:
+        - all
+  galaxy_tags:
+    - cloud
+    - ec2
     - monitoring
     - system

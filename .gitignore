@@ -1,3 +1,2 @@
-.vagrant
-.kitchen
-Gemfile.lock
+.venv
+.vscode

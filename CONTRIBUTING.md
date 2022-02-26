@@ -26,13 +26,3 @@ installed as well.
 
 Use `bundle exec kitchen` to run commands.
 
-## Contributors
-
-* [Abed Kassis](https://github.com/abedk)
-* [Alexander Merkulov](https://github.com/merqlove)
-* [Brent Walker](https://github.com/tacchino)
-* [danvaida](https://github.com/danvaida)
-* [Koen Punt](https://github.com/koenpunt)
-* [Nathan Smith](https://github.com/smith)
-* [Rutger de Knijf](https://github.com/rdeknijf)
-* [Ryan Pineo](https://github.com/ryanpineo)
