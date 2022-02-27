@@ -1,3 +1,4 @@
+---
 on:
   release:
     types: [published]
@@ -19,7 +20,7 @@ jobs:
   release_ansible:
     runs-on: ubuntu-latest
     name: Release package
-    needs: pre_release_test
+    # needs: pre_release_test
     steps:
       - name: Release ansible
         uses: buluma/infrastructure-agent-ansible/.github/actions/release@master

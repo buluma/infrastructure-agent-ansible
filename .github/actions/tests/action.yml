@@ -1,3 +1,4 @@
+---
 name: 'Run tests'
 description: 'Run molecule against the code'
 runs:

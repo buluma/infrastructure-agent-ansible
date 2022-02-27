@@ -2,7 +2,7 @@
 
 This file is used to list changes made in each version of the `nrinfragent` Ansible role.
 
-## 0.10.5 (2022-02-27)
+## 2.0.5 (2022-02-27)
 
 IMPROVEMENTS:
 
